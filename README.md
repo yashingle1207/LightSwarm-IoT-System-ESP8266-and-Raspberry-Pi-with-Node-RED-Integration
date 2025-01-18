@@ -46,11 +46,15 @@ Communication Protocols
 o	Protocol: Multicast UDP
 o	Message: Device ID, Master Status, Light Reading
 
+![image](https://github.com/user-attachments/assets/78fb4af9-0eab-4b70-8ca3-90732465bfab)
+
+
+
 •	Raspberry Pi to ESP8266:
 o	Protocol: Multicast UDP
 o	Message: Reset Command
-•	Raspberry Pi to Node-RED:
 
+•	Raspberry Pi to Node-RED:
 o	Protocol: HTTP POST
 o	Message: JSON-formatted data (average readings, scaled values, master durations).
 ________________________________________
