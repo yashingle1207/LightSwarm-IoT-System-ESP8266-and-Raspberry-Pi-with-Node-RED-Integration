@@ -27,6 +27,7 @@ https://drive.google.com/file/d/1-2INqzPqDSgXp2aB876vtGuEblzrzAIp/view?usp=drive
 A quick snippet showcasing the LightSwarm nodes functioning in real time.
 
 ▶ Watch Short Demo Video
+https://drive.google.com/file/d/1H1GAkr3ER7kSnBA3hNkqPWM1qAmsj_l2/view?usp=sharing
 
 
 ___________________________________
