@@ -12,6 +12,14 @@ ________________________________________
 Schematics:![Screenshot 2025-01-18 113143](https://github.com/user-attachments/assets/9ca80778-0ac6-4237-8dba-b63a83370d95)
 
 
+________________________________________
+Demon Video
+
+A complete walkthrough of the LightSwarm IoT system is available here:
+
+[![LightSwarm Demo](https://img.shields.io/badge/Watch-Demo%20Video-blue?style=for-the-badge&logo=youtube)](https://drive.google.com/file/d/1-2INqzPqDSgXp2aB876vtGuEblzrzAIp/view?usp=drive_link)
+
+
 
 Tech Stack
 Hardware
