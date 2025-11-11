@@ -19,6 +19,7 @@ ________________________________________
 A full demonstration covering ESP8266 master election, Raspberry Pi processing, MAX7219 visualization, Node-RED dashboard, and reset functionality.
 
 ▶ Watch Full Demo Video
+https://drive.google.com/file/d/1-2INqzPqDSgXp2aB876vtGuEblzrzAIp/view?usp=drive_link
 
 -------------------
 🎬 Short Demo Video
