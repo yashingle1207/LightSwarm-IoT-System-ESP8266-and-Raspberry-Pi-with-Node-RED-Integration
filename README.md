@@ -13,13 +13,22 @@ Schematics:![Screenshot 2025-01-18 113143](https://github.com/user-attachments/a
 
 
 ________________________________________
-Demon Video
+🎥 Demo Videos
+✅ Complete System Walkthrough
 
-A complete walkthrough of the LightSwarm IoT system is available here:
+A full demonstration covering ESP8266 master election, Raspberry Pi processing, MAX7219 visualization, Node-RED dashboard, and reset functionality.
 
-[![LightSwarm Demo](https://img.shields.io/badge/Watch-Demo%20Video-blue?style=for-the-badge&logo=youtube)](https://drive.google.com/file/d/1-2INqzPqDSgXp2aB876vtGuEblzrzAIp/view?usp=drive_link)
+▶ Watch Full Demo Video
+
+-------------------
+🎬 Short Demo Video
+
+A quick snippet showcasing the LightSwarm nodes functioning in real time.
+
+▶ Watch Short Demo Video
 
 
+___________________________________
 
 Tech Stack
 Hardware
